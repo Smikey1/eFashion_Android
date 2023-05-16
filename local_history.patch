@@ -1,0 +1,24 @@
+Index: app/src/main/java/com/hdd/globalmovie/ProductDetailsActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/hdd/globalmovie/ProductDetailsActivity.kt b/app/src/main/java/com/hdd/globalmovie/ProductDetailsActivity.kt
+--- a/app/src/main/java/com/hdd/globalmovie/ProductDetailsActivity.kt	(date 1630515743267)
++++ b/app/src/main/java/com/hdd/globalmovie/ProductDetailsActivity.kt	(date 1630515743267)
+@@ -2,7 +2,6 @@
+ 
+ import android.content.res.ColorStateList
+ import android.os.Build
+-import androidx.appcompat.app.AppCompatActivity
+ import android.os.Bundle
+ import android.view.Menu
+ import android.view.MenuItem
+@@ -11,6 +10,7 @@
+ import android.widget.TextView
+ import android.widget.Toast
+ import androidx.annotation.RequiresApi
++import androidx.appcompat.app.AppCompatActivity
+ import androidx.fragment.app.Fragment
+ import androidx.viewpager.widget.ViewPager
+ import androidx.viewpager2.widget.ViewPager2

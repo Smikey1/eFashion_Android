@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ce0000</color>
+    <color name="colorGrey">#d6d6d6</color>
+    <color name="textEnabledColor">#ffffff</color>
+    <color name="textDisabledColor">#20ffffff</color>
+    <color name="buttonDisabledColor">#20ffffff</color>
+    <color name="textTransparentColor">#80ffffff</color>
+    <color name="fabWishlistColor">#9e9e9e</color>
+    <color name="starNotSelectedColor">#AAA69F</color>
+    <color name="starSelectedColor">#FF9800</color>
+    <color name="purple_200">#ce0000</color>
+    <color name="purple_500">#74ff76</color>
+    <color name="purple_700">#35a605</color>
+    <color name="buttonColor">#9f0000</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:backgroundTint="@color/white"
+    android:layout_marginHorizontal="10dp"
+    android:background="@drawable/banner_background"
+    android:elevation="8dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/cil_product_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/clothes" />
+
+    <TextView
+        android:id="@+id/cil_product_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:text="Clothes (men)"
+        android:textColor="@color/black"
+        android:textSize="15sp"
+        app:layout_constraintStart_toEndOf="@+id/cil_product_image"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/cil_free_coupon_img"
+        android:layout_width="15dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/cil_tv_free_coupon"
+        app:layout_constraintStart_toStartOf="@+id/cil_product_name"
+        app:layout_constraintTop_toTopOf="@+id/cil_tv_free_coupon"
+        app:srcCompat="@drawable/coupon"
+        app:tint="#8000ff" />
+
+    <TextView
+        android:id="@+id/cil_tv_free_coupon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Free (2 coupen)"
+        android:textColor="#8000ff"
+        android:textSize="15sp"
+        android:paddingLeft="3dp"
+        app:layout_constraintStart_toEndOf="@+id/cil_free_coupon_img"
+        app:layout_constraintTop_toBottomOf="@+id/cil_product_name" />
+
+    <TextView
+        android:id="@+id/cil_product_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="15dp"
+        android:text="Rs.5400"
+        android:textColor="@color/black"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cil_tv_free_coupon" />
+
+    <TextView
+        android:id="@+id/cil_cutted_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:text="Rs.6000"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/cil_product_price"
+        app:layout_constraintEnd_toStartOf="@+id/cil_product_price" />
+
+    <View
+        android:id="@+id/cil_divider"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="@android:color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/cil_cutted_price"
+        app:layout_constraintEnd_toEndOf="@+id/cil_cutted_price"
+        app:layout_constraintStart_toStartOf="@+id/cil_cutted_price"
+        app:layout_constraintTop_toTopOf="@+id/cil_cutted_price" />
+
+    <TextView
+        android:id="@+id/cil_offer_applied"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="15dp"
+        android:text="Offer Applied"
+        android:textColor="@color/purple_700"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cil_product_price" />
+
+    <TextView
+        android:id="@+id/cil_coupen_applied"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="15dp"
+        android:text="Coupon Applied"
+        android:textColor="@color/colorPrimary"
+        android:textSize="13sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cil_offer_applied" />
+
+    <TextView
+        android:id="@+id/cil_quantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:background="@drawable/border_background"
+        android:backgroundTint="@color/black"
+        android:drawableEnd="@drawable/down_arrow"
+        android:drawablePadding="4dp"
+        android:padding="5dp"
+        android:text="Qty: 2"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="@+id/cil_coupen_applied"
+        app:layout_constraintStart_toEndOf="@+id/cil_product_image"
+        app:layout_constraintTop_toBottomOf="@+id/cil_cutted_price" />
+
+    <LinearLayout
+        android:id="@+id/cil_remove_button"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:background="@drawable/banner_background"
+        android:backgroundTint="@color/white"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cil_coupen_applied">
+
+        <TextView
+            android:id="@+id/cil_deleteItem"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableLeft="@drawable/delete"
+            android:drawablePadding="5dp"
+            android:gravity="center"
+            android:text="Remove item"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/divider6"
+        android:layout_width="0dp"
+        android:layout_height="1dp"
+        android:background="#d6d6d6"
+        app:layout_constraintBottom_toTopOf="@+id/cil_remove_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+<!--        <LinearLayout-->
+<!--        android:id="@+id/pil_coupen_redeem"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:background="#ff3030"-->
+<!--        android:padding="10dp"-->
+<!--        android:gravity="right"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toBottomOf="@+id/pil_product_price">-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/pil_tv_coupen_redeem"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:layout_weight="1"-->
+<!--            android:textStyle="bold"-->
+<!--            android:textSize="16sp"-->
+<!--            android:textAlignment="center"-->
+<!--            android:text="Check price after redemptions" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/pil_btn_coupen_redeem"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="42dp"-->
+<!--            android:text="Redeem"-->
+<!--            android:textSize="16sp"-->
+<!--            android:textAllCaps="false"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:background="@drawable/border_background" />-->
+<!--    </LinearLayout>-->
+</androidx.constraintlayout.widget.ConstraintLayout>

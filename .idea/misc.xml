@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/efashionstore/src/main/res/layout/activity_login.xml" value="0.12395833333333334" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/bg_bottom.xml" value="0.15364583333333334" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/bg_button_rounded.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/bg_top.xml" value="0.21851851851851853" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/ic_address.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/ic_back.xml" value="0.125" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/ic_email.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v21/ic_profile.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable-v24/vp_selected_dots.xml" value="0.10740740740740741" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/bg_bottom.xml" value="0.15364583333333334" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/bg_bottom_rounded.xml" value="0.1537037037037037" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/bg_buttom.xml" value="0.1537037037037037" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/bg_circle.xml" value="0.1537037037037037" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/bg_top.xml" value="0.1537037037037037" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/border_background.xml" value="0.23703703703703705" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/ic_address.xml" value="0.1546875" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/ic_back.xml" value="0.1546875" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/ic_email.xml" value="0.1546875" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/keylog.xml" value="0.2601851851851852" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/vp_default_dots.xml" value="0.18611111111111112" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/vp_selected_dots.xml" value="0.18611111111111112" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/drawable/vp_selector_for_dots.xml" value="0.18611111111111112" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/font/raleway_bold.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/font/raleway_light.xml" value="0.16770833333333332" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/font/raleway_medium.xml" value="0.16770833333333332" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/account.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_category.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_dashboard.xml" value="0.13802083333333334" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_order.xml" value="0.12239583333333333" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_product_details.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_update_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/activity_view_all.xml" value="0.16" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/add_review_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/ads_slider.xml" value="0.25025641025641027" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/app_bar_main.xml" value="0.11203703703703703" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/authentication_dialog.xml" value="0.176" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/banner.xml" value="0.12962962962962962" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/cart_item_layout.xml" value="0.16194331983805668" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/cart_total_amount_layout.xml" value="0.18547140649149924" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/catagory_item.xml" value="0.14351851851851852" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/content_main.xml" value="0.1675925925925926" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_cart.xml" value="0.1037037037037037" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_maps.xml" value="0.21481481481481482" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_my_account.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_my_cart.xml" value="0.18888888888888888" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_order.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_product_description.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_product_other_details.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_product_specification.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/fragment_wishlist.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/grid_product_layout.xml" value="0.13602941176470587" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/grid_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/horizontal_scroll_layout.xml" value="0.27435064935064934" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/hsl_item.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/nav_header_main.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/order_item.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/order_item_layout.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/product_description_layout.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/product_images_layout.xml" value="0.176" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/product_ratings_layout.xml" value="0.6" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/product_reviews_layout.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/product_specification_item_layout.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/quantity_dialog.xml" value="0.12297734627831715" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/rating_layout.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/ratings_layout.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/review_item_layout.xml" value="0.3660130718954248" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/wishlist_item_layout.xml" value="0.4" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/layout/xyz.xml" value="0.128" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/menu/category_menu.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/menu/gallery_menu.xml" value="0.26614583333333336" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/menu/search_cart_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2601851851851852" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable-v21/ic_profile.xml" value="0.11822916666666666" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable-v24/key.xml" value="0.11822916666666666" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable/banner_background.xml" value="0.2703125" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable/default_unselected_dot.xml" value="0.2703125" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable/edittext_background.xml" value="0.1546875" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable/ic_address.xml" value="0.1546875" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/drawable/progress_bar.xml" value="0.15208333333333332" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout-w1240dp/order_list_layout.xml" value="0.72" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_order.xml" value="0.12083333333333333" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout/ordel_list_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Courses-Lectures/Softwarica/5th Sem/Kotlin/eFashionStore/final-assignment-Smikey1/efashionwearos/src/main/res/layout/progress_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/app/src/main/res/layout/cart_item_layout.xml" value="0.25025641025641027" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/app/src/main/res/layout/fragment_cart.xml" value="0.16111111111111112" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/app/src/main/res/layout/review_item_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/app/src/main/res/menu/activity_main_drawer.xml" value="0.13020833333333334" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/activity_cart.xml" value="0.6468401486988847" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/activity_main.xml" value="0.7767857142857143" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/activity_order.xml" value="0.6214285714285714" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/cart_item_layout.xml" value="0.6823529411764706" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/cart_tem_layout.xml" value="0.9678571428571429" />
+        <entry key="..\:/softwarica/android/Final Assignment/FINAL/efashionwearos/src/main/res/layout/ordel_list_layout.xml" value="0.8928571428571429" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/drawable-v24/border_background.xml" value="0.1787037037037037" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/drawable/banner_background.xml" value="0.1787037037037037" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_billing.xml" value="0.264" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_cart.xml" value="0.13020833333333334" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_category.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_main.xml" value="0.12037037037037036" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_order.xml" value="0.13020833333333334" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_product_details.xml" value="0.22592592592592592" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/activity_view_all.xml" value="0.25" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/add_review_layout.xml" value="0.264" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/ads_slider.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/app_bar_main.xml" value="0.1425925925925926" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/bill_layout.xml" value="0.2" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/cart_item_layout.xml" value="0.266304347826087" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/cart_total_amount_layout.xml" value="0.13020833333333334" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/content_main.xml" value="0.14272474513438368" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/edit_review_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/fragment_cart.xml" value="0.264" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/fragment_home.xml" value="0.12418906394810009" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/fragment_my_account.xml" value="0.4" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/fragment_order.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/nav_header_main.xml" value="0.21851851851851853" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/order_item_layout.xml" value="0.264" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/product_description_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/product_images_layout.xml" value="0.21666666666666667" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/product_ratings_layout.xml" value="0.4674329501915709" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/layout/review_item_layout.xml" value="0.536" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/menu/activity_main_drawer.xml" value="0.20952380952380953" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/menu/category_menu.xml" value="0.1" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/menu/gallery_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/menu/main.xml" value="0.1425925925925926" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/app/src/main/res/menu/search_cart_menu.xml" value="0.2" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_login.xml" value="0.9892857142857143" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_main.xml" value="1.7428571428571429" />
+        <entry key="..\:/softwarica/android/Final Assignment/MYTest/final-assignment-Smikey1/efashionwearos/src/main/res/layout/activity_order.xml" value="0.6321428571428571" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

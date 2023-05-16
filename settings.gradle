@@ -1,0 +1,3 @@
+rootProject.name = "GlobalMovie"
+include ':app'
+include ':efashionwearos'
